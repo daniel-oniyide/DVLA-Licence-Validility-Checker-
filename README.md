@@ -1,6 +1,12 @@
-(https://github.com/user-attachments/files/32427963/README.md)# DVLA Valid Licence Checker
+<div align="center">
+
+# DVLA Valid Licence Checker
+
+</div>
 
 A Python-based text program designed to check UK vehicle licence plates using DVLA region codes and registration formats.
+
+</br>
 
 ## Overview
 
